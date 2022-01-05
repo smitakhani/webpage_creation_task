@@ -1,0 +1,26 @@
+.navbar
+{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.nav a
+{
+	color: white;
+}
+.nav a:hover
+{
+	color: orange;
+}
+#ac
+{
+	color: orange;
+}
+hr
+{
+	border-style: solid;
+	border-width: 1px;
+}
+#ac-btn
+{
+	border-bottom: 5px solid orange;
+}
